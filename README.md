@@ -188,7 +188,23 @@ Create additional users via Signup (employee) or Admin → Users page (any role)
 3. Output: `dist`
 4. Env: `VITE_API_URL=https://your-api.onrender.com/api`
 
-backend live url check the apis in postman - https://attendanceapp-backend1-ptv8.onrender.com
+## 🚀 LIVE DEPLOYMENT
+
+### **🔗 BACKEND LIVE URL**
+
+**API BASE URL (TEST USING POSTMAN):**
+
+https://attendanceapp-backend1-ptv8.onrender.com
+
+### **🌐 FRONTEND LIVE URL**
+
+**APPLICATION URL:**
+
+https://attendance-app-frontend1.vercel.app/
+
+### **⚠️ CURRENT STATUS**
+
+Login and Signup functionality may not work as expected because the deployed backend is currently experiencing a **MongoDB Atlas connection establishment issue**. The frontend deployment is accessible, but authentication-related features are affected until the database connection is restored.
 
 **\*** I AM PHASING THE ISSUE IN MONGO DB ATLAS MY FREE CREDITS IS EXPIRED AND MONGODB SERVER ALSO HAVE SOME ISSUES THAT IS WHY WHEN I LIVE FRONTEND AS WELL THEN I AM PHASING THE ISSUE THAT IS WHY I MENTIONED LOCALHOST PORTS \*\*\*\*
 
