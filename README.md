@@ -2,12 +2,6 @@
 
 Full-stack MERN application for employee attendance tracking with live selfie verification, geolocation capture, role-based access control, overtime workflow, and attendance validation.
 
-## Live Demo
-
-| Service  | URL                                         |
-| -------- | ------------------------------------------- |
-| Frontend | _Deploy to Vercel/Netlify and add URL here_ |
-| Backend  | _Deploy to Render and add URL here_         |
 
 ## Tech Stack
 
