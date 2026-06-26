@@ -15,7 +15,7 @@ A full-stack MERN application for employee attendance tracking with live selfie 
 
 <h3>Login Page</h3>
 
-<img src="./screenshots/login.png" width="900">
+<img src="./screenshots/Login.png" width="900">
 
 <h3>Register Page</h3>
 
